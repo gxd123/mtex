@@ -16,7 +16,7 @@
 % describes by a <strainTensor.html strain matrix> $\sigma_{ij}$ and the
 % force is described by a stress matrix $\varepsilon_{kl}$. In this setting
 % the linear relationship between the two matrices is described by the
-% <complianceTensor.complianceTensor.html compliance tensor> $\mathbf
+% <complianceTensor.complianceTensor.html stiffness tensor> $\mathbf
 % C_{ijkl}$ which can be seen as a 4 dimensional generalization of a matrix.
 %
 % More, general a tensor of rank $r$ is a "matrix" of dimension $r$. If
