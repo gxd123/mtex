@@ -14,7 +14,7 @@
 % be described anymore by scalar numbers $x$ and $y$ but vectors or
 % matrices are required. In its most general form the displacment is
 % describes by a <strainTensor.html strain matrix> $\sigma_{ij}$ and the
-% force is described by a stiffness matrix $\varepsilon_{kl}$. In this setting
+% force is described by a stress matrix $\varepsilon_{kl}$. In this setting
 % the linear relationship between the two matrices is described by the
 % <complianceTensor.complianceTensor.html compliance tensor> $\mathbf
 % C_{ijkl}$ which can be seen as a 4 dimensional generalization of a matrix.
